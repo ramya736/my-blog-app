@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: cursive;
+}
+header{
+    color: cadetblue;
+    text-align: center;
+    font-size: x-large;
+}
+main{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+main{
+    margin-left: 30%;
+    padding: 20px;
+}
